@@ -13,4 +13,4 @@ permalink: /about-me/
 * sometimes I'm funny
 * sometimes I'm serious
 
-Blogs are a way for me to talk to myself. You may find some things I write of use to you. My suggestion is to read would like and skip the rest.
+Blogs are a way for me to talk to myself. You may find some things I write of use to you. My suggestion is to read what you like and skip the rest.
