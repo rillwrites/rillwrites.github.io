@@ -7,7 +7,7 @@ title: Rill Writes
 description: These are my journal entries. They may be useful to you.  
 # Build settings
 
-theme: tactile
+theme: minima
 
 plugins:
   - jekyll-feed
