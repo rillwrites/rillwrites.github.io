@@ -4,8 +4,7 @@ title: Rill Writes
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: These are my journal entries. They may be useful to you. >
-  
+description: These are my journal entries. They may be useful to you.  
 # Build settings
 
 theme: minima
@@ -68,4 +67,4 @@ defaults:
 show_excerpts: true
 posts_limit: 5
 paginate: 5
-paginate_path: '/notes/page:num/'
+paginate_path: '/page:num/'
