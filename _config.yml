@@ -8,7 +8,7 @@ description: These are my journal entries. They may be useful to you. >
   
 # Build settings
 
-#theme: minima
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -23,6 +23,21 @@ plugins:
   #
   # date_format: "%b %-d, %Y"
 
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      isPost: true
+      layout: post
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      isPost: false
+      layout: default
   # Generate social links in footer.
   #
   # social_links:
