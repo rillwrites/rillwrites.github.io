@@ -1,13 +1,13 @@
 Today we worked on many things:
 1. Going over commands. Some are the same for me and some are
    different. I'm using *Stay* instead of *rest*, for example. We
-   practiced these.
-   2. We discovered the ergonomic harness was too long for me. We need
+   practiced these.   
+2. We discovered the ergonomic harness was too long for me. We need
       a shorter one.
-	  3. We went for two walks.
-	  4. We are practicing being off leash in the house. Nina is doing
+3. We went for two walks.
+4. We are practicing being off leash in the house. Nina is doing
          wonderfully.
-		 5. We learned about grooming while relaxing on the large
+5. We learned about grooming while relaxing on the large
             patio.
 			
 			### Our Walks
