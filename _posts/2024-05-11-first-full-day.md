@@ -10,7 +10,7 @@ Today we worked on many things:
 5. We learned about grooming while relaxing on the large
             patio.
 
-			### Our Walks
+### Our Walks
 
 			It was a bit challenging with the incorrect harness, but
             we managed.
@@ -26,7 +26,7 @@ Today we worked on many things:
             across the sidewalk from the button. Nina and I both did
 			well.
 
-			### Wrapping Up
+### Wrapping Up
 
 			Nina is very definite about dinnertime. Both of us are
             tired out.
