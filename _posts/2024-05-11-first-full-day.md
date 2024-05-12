@@ -12,14 +12,13 @@ Today we worked on many things:
 
 			### Our Walks
 
-It was a bit challenging with the incorrect harness, but
+			It was a bit challenging with the incorrect harness, but
             we managed.
 
 			In the morning we went up to the park and did two times
             around the loop. Nina can walk quite spritely, clip clop,
             clip clop.
-
-It is really good to be walking quickly and confidently.
+			It is realy good to be walking quickly and confidently.
 
 			In the afternoon we went down the hill to the main
             road. There is an audible signal there though it is laid
