@@ -1,0 +1,40 @@
+To add an image to a Jekyll post, follow these steps:
+
+1. Place the image file in a directory within your Jekyll site, such as `/assets/images/`. [1]
+
+2. In the post's markdown file, use the following syntax to reference the image:
+
+```
+![Alt text for the image](/assets/images/image_file.jpg)
+```
+
+Replace `/assets/images/image_file.jpg` with the correct relative path to your image file. [2]
+
+3. Optionally, you can define the image path in the post's front matter using a custom variable, e.g.:
+
+```
+---
+layout: post
+title: My Post
+image: /assets/images/image_file.jpg
+---
+```
+
+Then reference it in the markdown using `![Alt text](%20page.image%20)`. [1]
+
+4. If your site is hosted in a subdirectory, you may need to prepend the image path with `%20site.baseurl%20` or use the `relative_url` filter, e.g.:
+
+```
+![Alt text](%20%22/assets/images/image_file.jpg%22%20%7C%20relative_url%20)
+```
+
+This ensures the image path is correct when your site is built. [3]
+
+By following these steps, your image should display correctly in your Jekyll post. [1][2][3]
+
+Sources
+[1] Add featured images to Jekyll posts (Part 1) - YouTube https://www.youtube.com/watch?v=6oKO-7gsM4s
+[2] Jekyll how to display an image in a post - Stack Overflow https://stackoverflow.com/questions/40197197/jekyll-how-to-display-an-image-in-a-post
+[3] How to add an image in Jekyll post - Help https://talk.jekyllrb.com/t/how-to-add-an-image-in-jekyll-post/8942
+[4] Tell me your solution for post images into your Jekyll's blog - Reddit https://www.reddit.com/r/Jekyll/comments/g98e63/tell_me_your_solution_for_post_images_into_your/
+[5] Add featured images to your Jekyll blog roll (Part 2) - YouTube https://www.youtube.com/watch?v=1GskmTFLrA4
