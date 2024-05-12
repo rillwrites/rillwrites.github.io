@@ -10,23 +10,25 @@ Today we worked on many things:
 5. We learned about grooming while relaxing on the large
             patio.
 			
-			### Our Walks
 			
-			It was a bit challenging with the incorrect harness, but
+### Our Walks
+
+It was a bit challenging with the incorrect harness, but
             we managed.
-			
+
 			In the morning we went up to the park and did two times
             around the loop. Nina can walk quite spritely, clip clop,
             clip clop.
-			It is realy good to be walking quickly and confidently.
-			
+	
+	It is really good to be walking quickly and confidently.
+
 			In the afternoon we went down the hill to the main
             road. There is an audible signal there though it is laid
             out strangely as the button is several steps away and
             across the sidewalk from the button. Nina and I both did
 			well.
-			
+
 			### Wrapping Up
-			
+
 			Nina is very definite about dinnertime. Both of us are
             tired out.
