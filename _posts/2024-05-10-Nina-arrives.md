@@ -1,0 +1,3 @@
+Nina arrived mid afternoon today. We just hung out at the house until her dinner time. Then I fed her and took her out for a potty break. My instructions are to spend the evening with her, give her a tour of the house and take her out at seven and nine. Breakfast tomorrow morning and a trip outside and then at nine we settle down to work. Here are some pics.
+["Nina lays at my feet"](/_images/nina-pic1.jpg)
+["Nina lays at my feet](/_images/nina-ic2.jpg)
