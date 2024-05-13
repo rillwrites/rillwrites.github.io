@@ -9,10 +9,10 @@ description: These are my journal entries. They may be useful to you.
 
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-    - jekyll-paginate
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#    - jekyll-paginate
 
 # Theme-specific settings
 
@@ -51,5 +51,5 @@ defaults:
 #
 show_excerpts: true
 posts_limit: 5
-paginate: 5
+paginate: 10
 paginate_path: '/page:num/'
