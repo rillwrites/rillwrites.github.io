@@ -6,8 +6,9 @@ layout: default
 
 <ul>
 {% for post in site.posts reversed %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date }})
-  </li>
+	{{ article.date | date_to_string: "%B %d, %Y" }}
+
+  <li>    <a href="{{ post.url }}">{{ post.title }}</a> ({{ article.date }})
+</li>
 {% endfor %}
 </ul>
