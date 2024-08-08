@@ -51,7 +51,9 @@ defaults:
 #
 show_excerpts: true
 posts_limit: 5
-paginate: 10
+paginate: 5
+per_page: 5
+
 paginate_path: '/page:num/'
 
 # jekyll archives
