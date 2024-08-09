@@ -47,24 +47,3 @@ defaults:
 # header_pages:
 #   - about.md
 
-# Set to `true` to show excerpts on the homepage.
-#
-show_excerpts: true
-posts_limit: 5
-paginate: 5
-per_page: 5
-
-paginate_path: '/page:num/'
-
-# jekyll archives
-jekyll-archives:
-  enabled: []
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
-
